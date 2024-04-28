@@ -1,2 +1,2 @@
-# mkt6110
-Porject files for YTU class MKT6110 - Autonomous Robots
+# mkt6110 - autonomous robots
+Python based autpilot for manned aircraft
